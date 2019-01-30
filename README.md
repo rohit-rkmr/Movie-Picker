@@ -8,6 +8,7 @@ pip install git+https://github.com/alberanid/imdbpy
 
 ```
 Run the code
+
 **Happy movie-watching!**:clapper::smile:
 ### Info 
 uses a IMDbPY python package to get data of the top 250 imdb movies
