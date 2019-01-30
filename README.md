@@ -12,5 +12,6 @@ Picks a :fire: movie for you from the IMDB top 250 movies
 
 **Happy movie-watching!**:clapper::smile:
 ### Info 
-Uses a IMDbPY python package to get data of the top 250 imdb movies
+* A simple Python Program 
+* Uses a IMDbPY python package to get data of the top 250 imdb movies
 
