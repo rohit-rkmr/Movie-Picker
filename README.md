@@ -1,6 +1,6 @@
 # movie-picker
 Picks a :fire: movie for you from the imdb top 250 movies
-## Prerequesite
+## Prerequisite
 install IMDbPY python package by typing -
 
 ```
