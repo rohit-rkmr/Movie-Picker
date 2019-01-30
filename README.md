@@ -1,5 +1,5 @@
-# movie-picker
-Picks a :fire: movie for you from the imdb top 250 movies
+# Movie-Picker
+Picks a :fire: movie for you from the IMDB top 250 movies
 ## Guidelines
 * Internet is required to run the program and collect data
 * Install IMDbPY python package by typing -
