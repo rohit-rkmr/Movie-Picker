@@ -1,15 +1,16 @@
 # movie-picker
 Picks a :fire: movie for you from the imdb top 250 movies
-## Prerequisite
-install IMDbPY python package by typing -
+## Guidelines
+*Internet is required to run the program and collect data
+*install IMDbPY python package by typing -
 
-```
-pip install git+https://github.com/alberanid/imdbpy
+ ```
+ pip install git+https://github.com/alberanid/imdbpy
 
-```
-Run the code
+ ```
+*Run the code
 
 **Happy movie-watching!**:clapper::smile:
 ### Info 
-uses a IMDbPY python package to get data of the top 250 imdb movies
+Uses a IMDbPY python package to get data of the top 250 imdb movies
 
